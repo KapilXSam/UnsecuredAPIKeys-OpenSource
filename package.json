@@ -13,6 +13,11 @@
   "license": "MIT",
   "author": "TSCarterJr",
   "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "@sentry/nextjs": "^9.35.0",
     "@sentry/react": "^9.35.0",
